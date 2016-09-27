@@ -2,6 +2,7 @@
 my own foundation snippets
 
 ##How to use
+###Triggers
 * smallup
 * smallonly
 * medup
@@ -12,3 +13,4 @@ my own foundation snippets
 * xlargeonly
 * xxlargeup
 * xxlargeonly
+* remcalc
