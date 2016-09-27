@@ -2,6 +2,7 @@
 my own foundation snippets
 
 ##How to use
+###Triggers
 * smallup
 * smallonly
 * medup
