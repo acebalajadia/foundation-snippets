@@ -1,11 +1,11 @@
 <snippet>
 	<content><![CDATA[
-@media #{\$small-up} {
-${1}
+@include breakpoint(${1:your breakpoint}) {
+	${2:css}
 }
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>smallup</tabTrigger>
+	<tabTrigger>breakpoint</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>
